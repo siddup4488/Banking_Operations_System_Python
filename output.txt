@@ -28,9 +28,9 @@ Select Account Type: 1.Savings ; 2.Current : 1
 Enter User Name: Santhosh Krishna Siddhardha
 Select gender: 1.Male ; 2.Female : 1
 Enter DOB: 04/11/2001
-Enter PAN: NWBPS0497B
-Enter Aadhar: 529112968512
-Enter Phone Number: 7075674488
+Enter PAN: NWBPL0125B
+Enter Aadhar: 599986667888
+Enter Phone Number: 6340984488
 Enter the address:
 House: 98
 City: Pune
@@ -42,10 +42,10 @@ State: Maharastra
 
 Name: Santhosh Krishna Siddhardha
 -----Enter The Personal Details Of The User-----
-Aadhar: 529112968512
-PAN: NWBPS0497B
+Aadhar: 599986667888
+PAN: NWBPL0125B
 DOB: 04/11/2001
-Phone Number: 7075674488
+Phone Number: 6340984488
 Gender: Male
 Address: 98 , Pune , Maharastra
 -----Account Details of the  ICICI  Banking User-----
