@@ -1,0 +1,183 @@
+---------Welcome To The ICICI India Banking Management System --------
+choose
+1. Bank Employee
+2. Account Holder
+3. Close The System
+Enter Your Choice: 1
+
+
+--------Admin Login into the ICICI India Banking --------
+Username: santhosh
+Password: admin
+Login Successful
+
+
+What do you want to do in the ICICI Banking?
+1. Open A Bank Account With ICICI
+2. Diaplay All The Accounts in ICICI
+3. Close An Account of the User in ICICI
+4. Update Account Details of the user in ICICI
+5. Get Details of a specific Account in ICICI
+6. Add Money in an Account
+7. Exit
+Enter Your Choice: 1
+
+
+-------------Account Opening Application Form-------------
+Select Account Type: 1.Savings ; 2.Current : 1
+Enter User Name: Santhosh Krishna Siddhardha
+Select gender: 1.Male ; 2.Female : 1
+Enter DOB: 04/11/2001
+Enter PAN: NWBPS0497B
+Enter Aadhar: 529112968512
+Enter Phone Number: 7075674488
+Enter the address:
+House: 98
+City: Pune
+State: Maharastra
+
+
+-------------Account Opened Successfully Thank You !!!-------------
+
+
+Name: Santhosh Krishna Siddhardha
+-----Enter The Personal Details Of The User-----
+Aadhar: 529112968512
+PAN: NWBPS0497B
+DOB: 04/11/2001
+Phone Number: 7075674488
+Gender: Male
+Address: 98 , Pune , Maharastra
+-----Account Details of the  ICICI  Banking User-----
+AccountNo: 111211001
+IFSC Code: ICICI1121
+Account Type: Savings
+Balance: 0
+
+
+What do you want to do in the ICICI Banking?
+1. Open A Bank Account With ICICI
+2. Diaplay All The Accounts in ICICI
+3. Close An Account of the User in ICICI
+4. Update Account Details of the user in ICICI
+5. Get Details of a specific Account in ICICI
+6. Add Money in an Account
+7. Exit
+Enter Your Choice: 6
+
+
+Enter The Account No. of the User: 111211001
+Enter The amount to be deposited: 96000
+Account Balance Updated Successfully! Thank You!!!!!
+
+
+What do you want to do in the ICICI Banking?
+1. Open A Bank Account With ICICI
+2. Diaplay All The Accounts in ICICI
+3. Close An Account of the User in ICICI
+4. Update Account Details of the user in ICICI
+5. Get Details of a specific Account in ICICI
+6. Add Money in an Account
+7. Exit
+Enter Your Choice: 1
+
+
+-------------Account Opening Application Form-------------
+Select Account Type: 1.Savings ; 2.Current : 1
+Enter User Name: Bakka Nani Reddy
+Select gender: 1.Male ; 2.Female : 1
+Enter DOB: 23/04/2001
+Enter PAN: ASDFG0497B
+Enter Aadhar: 765588889999
+Enter Phone Number: 9030793639
+Enter the address:
+House: 87
+City: Pune
+State: Maharastra
+
+
+-------------Account Opened Successfully Thank You !!!-------------
+
+
+Name: Bakka Nani Reddy
+-----Enter The Personal Details Of The User-----
+Aadhar: 765588889999
+PAN: ASDFG0497B
+DOB: 23/04/2001
+Phone Number: 9030793639
+Gender: Male
+Address: 87 , Pune , Maharastra
+-----Account Details of the  ICICI  Banking User-----
+AccountNo: 111211002
+IFSC Code: ICICI1121
+Account Type: Savings
+Balance: 0
+
+
+What do you want to do in the ICICI Banking?
+1. Open A Bank Account With ICICI
+2. Diaplay All The Accounts in ICICI
+3. Close An Account of the User in ICICI
+4. Update Account Details of the user in ICICI
+5. Get Details of a specific Account in ICICI
+6. Add Money in an Account
+7. Exit
+Enter Your Choice: 6
+
+
+Enter The Account No. of the User: 111211002
+Enter The amount to be deposited: 1000000
+Account Balance Updated Successfully! Thank You!!!!!
+
+
+What do you want to do in the ICICI Banking?
+1. Open A Bank Account With ICICI
+2. Diaplay All The Accounts in ICICI
+3. Close An Account of the User in ICICI
+4. Update Account Details of the user in ICICI
+5. Get Details of a specific Account in ICICI
+6. Add Money in an Account
+7. Exit
+Enter Your Choice: 7
+
+
+Thank You!
+
+
+---------Welcome To The ICICI India Banking Management System --------
+choose
+1. Bank Employee
+2. Account Holder
+3. Close The System
+Enter Your Choice: 2
+
+
+-------Customer Account Login into ICICI Banking Management System -------
+ ** Password Hint: First 4 letters of PAN followed by last 4 number of the mobile number **
+Account No.: 111211001
+Password : NWBP4488
+Login Successful
+
+
+What do you want to do?
+1. Update Account Details
+2. Withdaw
+3. Transfer
+4. Balance Enquiry
+5. Exit
+Enter Your Choice: 3
+
+
+Enter The Account No. you want to transfer: 111211002
+Enter the Amount you want to Transfer: 2300
+Transfer Successful
+Updated balance is 93700
+
+
+What do you want to do?
+1. Update Account Details
+2. Withdaw
+3. Transfer
+4. Balance Enquiry
+5. Exit
+Enter Your Choice: 
